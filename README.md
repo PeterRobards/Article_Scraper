@@ -282,7 +282,7 @@ $ python -m pip install -r requirements.txt
 
 Once you have installed the required dependencies using this program is fairly straight forward.
 
-## Usage `get_content.py`
+## Usage
 
 Once python is installed on your machine the first step t0 using this script is finding an Article
 whose content you wish to save or view in the terminal. You can see the list of currently supported websites
