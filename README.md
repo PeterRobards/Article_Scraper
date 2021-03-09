@@ -284,9 +284,9 @@ Once you have installed the required dependencies using this program is fairly s
 
 ## Usage
 
-Once python is installed on your machine the first step t0 using this script is finding an Article
+Once python is installed on your machine the first step to using this script is finding an Article
 whose content you wish to save or view in the terminal. You can see the list of currently supported websites
-in the `get_content.py` file - support for other sites might be added at a future date. If the source of the Article
+in the `grab_content.py` file - support for other sites might be added at a future date. If the source of the Article
 is one of the supported sites then simply run the program. As shown below - this script
 will ask for the URL of a website: copy and paste the direct link to the article and hit enter.
 If the website is not supported an error message will be displayed along with a list of the supported sites.
